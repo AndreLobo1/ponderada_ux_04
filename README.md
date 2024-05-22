@@ -43,7 +43,7 @@ Essas questões podem levar a uma experiência de usuário frustrante e confusa,
 Com base na avaliação da tela atual, propomos algumas mudanças para melhorar a usabilidade. Abaixo, apresentamos a imagem da tela com as mudanças propostas:
 
 <div align="center">
-<sub>Figura 01 - Imagem das Melhorias Propostas na Tela de Autoavaliação</sub>
+<sub>Figura 02 - Imagem das Melhorias Propostas na Tela de Autoavaliação</sub>
 <br>
 <br>
 <img alt="Imagem das Melhorias Propostas na Tela de Autoavaliação" src="assets/melhorias.png">
